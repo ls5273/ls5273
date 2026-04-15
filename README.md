@@ -1,4 +1,4 @@
-PORTFOLIO
+LANA SORAK - PORTFOLIO 
 
 - Tiger Wars: Multiplayer Survival Game - https://github.com/ls5273/tiger_wars_game - Java / Sockets / JavaFX
 - Terminal Block Puzzle Game - https://github.com/ls5273/puzzle_game/tree/main - Python
