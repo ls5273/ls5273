@@ -2,61 +2,61 @@
 
 ## 🎮 Game Development
 ### 🐯 Tiger Wars: Multiplayer Survival Game 
-Short description...
+2D client-server multiplayer survival game where players compete to grow in size and dominate the leaderboard.
 
 - **Tech:** Java, Sockets, JavaFX
-- **Features:** 
-- **Repo:** [View on GitHub](link to add)
+- **Features:** Real-time multiplayer synchronization (multi-threaded), AI-controlled opponents, size-based combat system, live leaderboard, and dynamic camera system  
+- **Repo:** [View on GitHub](https://github.com/ls5273/tiger_wars_game)
 
 ### 🧩 Terminal Block Puzzle Game
-Short description...
+Command-line puzzle game where players strategically place and manipulate shapes on a 6x6 grid to maximize score while navigating randomized obstacles.
 
 - **Tech:** Python
-- **Features:** 
-- **Repo:** [View on GitHub]()
+- **Features:** ANSI-based terminal rendering, shape rotation and axis flipping using 2D array manipulation, interactive CLI loop, randomized obstacle generation, and collision detection
+- **Repo:** [View on GitHub](https://github.com/ls5273/puzzle_game)
 
 ## 🌐 Web Development
 ### 🎹 Adagio & Allegro: Musical Instrument Webshop
-Short description...
+Frontend e-commerce application where users can browse instruments, configure purchases, and complete a validated checkout flow.
 
-- **Tech:** Vanilla JavaScript MVC (ES6), Materialize CSS
-- **Features:** 
-- **Repo:** [View on GitHub]()
+- **Tech:** Vanilla JavaScript (ES6 Modules, MVC), Materialize CSS 
+- **Features:** Custom MVC architecture, multi-language support (i18n), localStorage-based cart persistence, interactive product configuration, regex-based form validation, and browser compatibility detection (Modernizr)  
+- **Repo:** [View on GitHub](https://github.com/ls5273/adagio_and_allegro_webshop)
 
-### 💻 iSchool @ RIT Portal Website 1
-Short description...
+### 💻 iSchool @ RIT Portal Website (1)
+Single-page React application that fetches and displays live academic, employment, and faculty data from external APIs.
 
-- **Tech:** React, Vite, Axios
-- **Features:** 
-- **Repo:** [View on GitHub]()
+- **Tech:** React, Vite, Axios 
+- **Features:** Live API integration with concurrent data fetching (Promise.all), state management using React hooks, dynamic UI filtering and toggling, and responsive component-based design 
+- **Repo:** [View on GitHub](https://github.com/ls5273/ischool_rit_portal_website1)
 
-### 💻 iSchool @ RIT Portal Website 2
-Short description...
+### 💻 iSchool @ RIT Portal Website (2)
+Server-side rendered ASP.NET Core MVC application that serves academic program, faculty, and employment data fetched from external APIs.
 
-- **Tech:** C#, ASP.NET Core MVC
-- **Features:** 
-- **Repo:** [View on GitHub]()
+- **Tech:** C#, ASP.NET Core MVC, HttpClient, Bootstrap, jQuery 
+- **Features:** Server-side rendering with MVC architecture, strongly-typed data models, centralized API routing, asynchronous REST API integration, and structured separation of concerns between controllers, models, and views  
+- **Repo:** [View on GitHub](https://github.com/ls5273/ischool_rit_portal_website2)
 
 ### 🗺️ Verona Travel Guide Website
-Short description...
+Multi-page web application showcasing the city of Verona with interactive features, travel information, and a database-backed user comment system.
 
 - **Tech:** PHP, JavaScript, MySQL, HTML/CSS
-- **Features:** 
-- **Repo:** [View on GitHub]()
+- **Features:** Interactive map with dynamic scaling, database-driven comment system with secure input handling, client-side form validation, modular PHP architecture using includes, and responsive navigation  
+- **Repo:** [View on GitHub](https://github.com/ls5273/verona_website)
 
 ### 🐱 Cat Net: Cat Breed Informational Website
-Short description...
+Multi-page website presenting detailed profiles of various cat breeds with rich media content and custom-designed visual elements.
 
 - **Tech:** HTML/CSS, Figma
-- **Features:** 
-- **Repo:** [View on GitHub]()
+- **Features:** Structured breed profile pages, custom-designed icons and branding, image galleries and embedded video content, intuitive navigation with dropdown menus, and printable PDF pages  
+- **Repo:** [View on GitHub](https://github.com/ls5273/cat_net_website)
 
 ### 🌐 Internet History Website 
-Short description...
+Multi-page educational website explaining the evolution of the internet, key pioneers, and core web technologies.
 
 - **Tech:** HTML/CSS
-- **Features:** 
-- **Repo:** [View on GitHub]()
+- **Features:** Structured multi-page navigation, educational content on internet history and protocols, custom diagrams and terminology sections, and printable PDF pages  
+- **Repo:** [View on GitHub](https://github.com/ls5273/internet_history_website)
 
 ## 🖥️ Backend Projects
 ### Title
@@ -125,16 +125,3 @@ Short description...
 - **Features:** 
 - **Repo:** [View on GitHub]()
 
-
-
-
-
-
-- Tiger Wars: Multiplayer Survival Game - https://github.com/ls5273/tiger_wars_game - Java / Sockets / JavaFX
-- Terminal Block Puzzle Game - https://github.com/ls5273/puzzle_game - Python
-- Adagio & Allegro: Musical Instrument Webshop - https://github.com/ls5273/adagio_and_allegro_webshop - Vanilla JavaScript MVC (ES6) & Materialize CSS
-- iSchool @ RIT Portal Website 1 - https://github.com/ls5273/ischool_rit_portal_website1 - React / Vite / Axios
-- iSchool @ RIT Portal Website 2 - https://github.com/ls5273/ischool_rit_portal_website2 -  C# & ASP.NET Core MVC
-- Verona Travel Guide Website - https://github.com/ls5273/verona_website - PHP / JavaScript / MySQL / HTML/CSS
-- Cat Net: Cat Breed Informational Website - https://github.com/ls5273/cat_net_website - HTML/CSS & Figma
-- Internet History Website - https://github.com/ls5273/internet_history_website - HTML/CSS
