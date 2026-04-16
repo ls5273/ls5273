@@ -89,7 +89,7 @@ Short description...
 - **Features:** 
 - **Repo:** [View on GitHub]()
 
-### Cat Web Shop
+### Cat Web Shop *(Sept 2025)*
 Short description...
 
 - **Tech:** 
