@@ -15,8 +15,8 @@ Command-line puzzle game where players strategically place and manipulate shapes
 - **Features:** ANSI-based terminal rendering, shape rotation and axis flipping using 2D array manipulation, interactive CLI loop, randomized obstacle generation, and collision detection
 - **Repo:** [View on GitHub](https://github.com/ls5273/puzzle_game)
 
-## 🌐 Web Development *(Oct 2025)*
-### 🎹 Adagio & Allegro: Musical Instrument Webshop
+## 🌐 Web Development 
+### 🎹 Adagio & Allegro: Musical Instrument Webshop *(Oct 2025)*
 Frontend e-commerce application where users can browse instruments, configure purchases, and complete a validated checkout flow.
 
 - **Tech:** Vanilla JavaScript (ES6 Modules, MVC), Materialize CSS 
