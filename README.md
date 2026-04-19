@@ -64,7 +64,7 @@ Short description...
 
 - **Tech:** 
 - **Features:** 
-- **Repo:** [View on GitHub]()
+- **Repo:** 
 
 ## 🔐 Security Awareness Project
 ### Phishing Campaign *(Mar 2025)* 
@@ -72,7 +72,7 @@ Short description...
 
 - **Tech:** 
 - **Features:** 
-- **Repo:** [View on Github]()
+- **Repo:**
   
 ## 🎨 UI/UX & Design
 ### Vivace *(Dec 2025)*
@@ -80,28 +80,28 @@ Short description...
 
 - **Tech:** 
 - **Features:** 
-- **Repo:** [View on GitHub]()
+- **Repo:** 
 
 ### BookShelf *(Feb 2026)*
 Short description...
 
 - **Tech:** 
 - **Features:** 
-- **Repo:** [View on GitHub]()
+- **Repo:** 
 
-### Cat Web Shop *(Sept 2025)*
+### Cat Webshop *(Sept 2025)*
 Short description...
 
 - **Tech:** 
 - **Features:** 
-- **Repo:** [View on GitHub]()
+- **Repo:** 
 
 ### ReLove *(Apr 2026)*
 Short description...
 
 - **Tech:** 
 - **Features:** 
-- **Repo:** [View on GitHub]()
+- **Repo:** 
 
 ## 🛠 Work in Progress
 ### Audore *(May 2026)*
@@ -109,19 +109,19 @@ Short description...
 
 - **Tech:** 
 - **Features:** 
-- **Repo:** [View on GitHub]()
+- **Repo:** 
 
 ### Diet Manager *(May 2026)*
 Short description...
 
 - **Tech:** 
 - **Features:** 
-- **Repo:** [View on GitHub]()
+- **Repo:**
 
 ### Networking Project *(May 2026)*
 Short description...
 
 - **Tech:** 
 - **Features:** 
-- **Repo:** [View on GitHub]()
+- **Repo:** 
 
